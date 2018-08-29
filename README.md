@@ -1,2 +1,2 @@
 # ross-larson.github.io
-Github Page.
+Github Page. Hugo will take it from here.
